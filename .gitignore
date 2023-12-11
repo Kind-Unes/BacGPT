@@ -1,0 +1,8 @@
+# Ignore node_modules in the backend
+backend/node_modules
+
+# Ignore build artifacts
+backend/build
+backend/.env
+
+frontend/node_modules
